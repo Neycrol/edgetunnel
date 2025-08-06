@@ -1,4 +1,3 @@
-```javascript
 import { connect } from 'cloudflare:sockets';
 let userID = '';
 let proxyIP = '';
@@ -4240,4 +4239,3 @@ Commercial support is available at
 `
     return text;
 }
-```
